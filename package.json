@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-darlington",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Darlington County GIS — Darlington County, South Carolina open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f94aede288108b315beeb7aaaa01cf81dc6504b2dee28487ccccc25ff09867bf",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-7b4554501ec41ce848e9c2797ea41ac4eada8d096eee3d90d64a147e89d51909",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
